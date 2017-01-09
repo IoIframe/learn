@@ -4,7 +4,7 @@ emoving one or more tabs that you think may be causing the problem
 
 S
 
-Well, this is embarrassing.
+Well, this is embarrassing
 
 
 
@@ -14,7 +14,7 @@ git push -u origin master     #push
 
 git remote remove origin      #remove the connection
 
-
+git clone git@github.com:(yourname)/(name of repository).git    #clone a repository to the localost,you need to build a repository first.
 
 
 
