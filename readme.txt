@@ -5,3 +5,16 @@ emoving one or more tabs that you think may be causing the problem
 S
 
 Well, this is embarrassing.
+
+
+
+git remote add origin git@github.com:IoIframe/learn.git   #create connection,you can see this in your account repository,which will show you what you need to write in your shell 
+
+git push -u origin master     #push
+
+git remote remove origin      #remove the connection
+
+
+
+
+
